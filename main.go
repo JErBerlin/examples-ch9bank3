@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jerberlin/examples-ch9bank2/bank"
+	"github.com/jerberlin/examples-ch9bank3/bank"
 )
 
 func main() {
